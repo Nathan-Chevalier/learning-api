@@ -1,0 +1,297 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "fullName": "John Doe",
+      "email": "john.doe@example.com",
+      "cohort": 7
+    },
+    {
+      "id": 2,
+      "fullName": "Jane Smith",
+      "email": "jane.smith@example.com",
+      "cohort": 34
+    },
+    {
+      "id": 3,
+      "fullName": "Bob Johnson",
+      "email": "bob.johnson@example.com",
+      "cohort": 12
+    },
+    {
+      "id": 4,
+      "fullName": "Alice Brown",
+      "email": "alice.brown@example.com",
+      "cohort": 53
+    },
+    {
+      "id": 5,
+      "fullName": "Chris Wilson",
+      "email": "chris.wilson@example.com",
+      "cohort": 28
+    },
+    {
+      "id": 6,
+      "fullName": "Emily Davis",
+      "email": "emily.davis@example.com",
+      "cohort": 42
+    },
+    {
+      "id": 7,
+      "fullName": "David Lee",
+      "email": "david.lee@example.com",
+      "cohort": 9
+    },
+    {
+      "id": 8,
+      "fullName": "Sarah Adams",
+      "email": "sarah.adams@example.com",
+      "cohort": 17
+    },
+    {
+      "id": 9,
+      "fullName": "Michael Turner",
+      "email": "michael.turner@example.com",
+      "cohort": 61
+    },
+    {
+      "id": 10,
+      "fullName": "Olivia Hall",
+      "email": "olivia.hall@example.com",
+      "cohort": 5
+    },
+    {
+      "id": 11,
+      "fullName": "Daniel Garcia",
+      "email": "daniel.garcia@example.com",
+      "cohort": 24
+    },
+    {
+      "id": 12,
+      "fullName": "Sophia Martinez",
+      "email": "sophia.martinez@example.com",
+      "cohort": 33
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "Introduction to HTML5",
+      "body": "HTML5 is the latest version of the HTML markup language and is widely used in web development.",
+      "date": "2023-09-05",
+      "topicId": 1,
+      "userId": 8
+    },
+    {
+      "id": 2,
+      "title": "Creating Stylish Websites with CSS3",
+      "body": "CSS3 allows you to style your web pages and create visually appealing designs.",
+      "date": "2023-09-06",
+      "topicId": 2,
+      "userId": 3
+    },
+    {
+      "id": 3,
+      "title": "JavaScript Fundamentals for Beginners",
+      "body": "JavaScript is a versatile programming language used for adding interactivity to websites.",
+      "date": "2023-09-07",
+      "topicId": 3,
+      "userId": 6
+    },
+    {
+      "id": 4,
+      "title": "Mastering Responsive Web Design",
+      "body": "Responsive web design ensures your site looks great on all devices, from mobile to desktop.",
+      "date": "2023-09-08",
+      "topicId": 4,
+      "userId": 4
+    },
+    {
+      "id": 5,
+      "title": "Building Web Apps with React",
+      "body": "React is a popular front-end library for building dynamic web applications.",
+      "date": "2023-09-09",
+      "topicId": 5,
+      "userId": 7
+    },
+    {
+      "id": 6,
+      "title": "Web Accessibility Best Practices",
+      "body": "Ensuring web accessibility is crucial to make your site usable by all users, including those with disabilities.",
+      "date": "2023-09-10",
+      "topicId": 6,
+      "userId": 9
+    },
+    {
+      "id": 7,
+      "title": "Creating Forms in HTML",
+      "body": "HTML forms are used for user input and data collection on websites.",
+      "date": "2023-09-11",
+      "topicId": 1,
+      "userId": 1
+    },
+    {
+      "id": 8,
+      "title": "CSS Grid Layout Techniques",
+      "body": "Learn how to use CSS Grid to create complex and responsive layouts.",
+      "date": "2023-09-12",
+      "topicId": 2,
+      "userId": 10
+    },
+    {
+      "id": 9,
+      "title": "Exploring JavaScript Frameworks",
+      "body": "Discover various JavaScript frameworks and their use cases in web development.",
+      "date": "2023-09-13",
+      "topicId": 3,
+      "userId": 5
+    },
+    {
+      "id": 10,
+      "title": "Optimizing Web Performance",
+      "body": "Tips and techniques for improving the speed and performance of your websites.",
+      "date": "2023-09-14",
+      "topicId": 4,
+      "userId": 2
+    },
+    {
+      "id": 11,
+      "title": "State Management in React",
+      "body": "Learn how to manage state in React applications using hooks and context.",
+      "date": "2023-09-15",
+      "topicId": 5,
+      "userId": 11
+    },
+    {
+      "id": 12,
+      "title": "Web Accessibility Testing Tools",
+      "body": "Tools and techniques for testing and ensuring web accessibility compliance.",
+      "date": "2023-09-16",
+      "topicId": 6,
+      "userId": 12
+    },
+    {
+      "id": 13,
+      "title": "Advanced HTML5 Features",
+      "body": "Explore advanced HTML5 features like canvas, video, and audio elements.",
+      "date": "2023-09-17",
+      "topicId": 1,
+      "userId": 3
+    },
+    {
+      "id": 14,
+      "title": "Sass: A CSS Preprocessor",
+      "body": "Learn how to use Sass to streamline your CSS development workflow.",
+      "date": "2023-09-18",
+      "topicId": 2,
+      "userId": 6
+    },
+    {
+      "id": 15,
+      "title": "Building Interactive Web Apps with Vue.js",
+      "body": "Vue.js is a progressive JavaScript framework for building modern web applications.",
+      "date": "2023-09-19",
+      "topicId": 3,
+      "userId": 7
+    },
+    {
+      "id": 16,
+      "title": "CSS Flexbox Layout",
+      "body": "Master the CSS Flexbox layout model for creating flexible and efficient designs.",
+      "date": "2023-09-20",
+      "topicId": 4,
+      "userId": 8
+    },
+    {
+      "id": 17,
+      "title": "React Router and Navigation",
+      "body": "Learn how to implement client-side routing in React applications using React Router.",
+      "date": "2023-09-21",
+      "topicId": 5,
+      "userId": 9
+    },
+    {
+      "id": 18,
+      "title": "Web Accessibility for Developers",
+      "body": "A comprehensive guide to making web applications accessible to all users.",
+      "date": "2023-09-22",
+      "topicId": 6,
+      "userId": 10
+    },
+    {
+      "id": 19,
+      "title": "Advanced CSS Techniques",
+      "body": "Explore advanced CSS techniques like animations, transitions, and transforms.",
+      "date": "2023-09-23",
+      "topicId": 2,
+      "userId": 11
+    },
+    {
+      "id": 20,
+      "title": "Using APIs in JavaScript",
+      "body": "Learn how to make API requests and work with external data sources in JavaScript.",
+      "date": "2023-09-24",
+      "topicId": 3,
+      "userId": 12
+    },
+    {
+      "id": 21,
+      "title": "Front-end Performance Optimization",
+      "body": "Techniques for optimizing the performance of front-end web applications for faster loading times.",
+      "date": "2023-09-25",
+      "topicId": 4,
+      "userId": 1
+    },
+    {
+      "id": 22,
+      "title": "Stateful vs. Stateless Components in React",
+      "body": "Understand the difference between stateful and stateless components in React.",
+      "date": "2023-09-26",
+      "topicId": 5,
+      "userId": 2
+    },
+    {
+      "id": 23,
+      "title": "Inclusive Web Design Practices",
+      "body": "Principles and techniques for designing web experiences that are inclusive and user-friendly.",
+      "date": "2023-09-27",
+      "topicId": 6,
+      "userId": 3
+    },
+    {
+      "id": 24,
+      "title": "Web Animation with CSS and JavaScript",
+      "body": "Create eye-catching animations on the web using CSS and JavaScript.",
+      "date": "2023-09-28",
+      "topicId": 1,
+      "userId": 4
+    }
+  ],
+  "topics": [
+    {
+      "id": 1,
+      "name": "HTML5"
+    },
+    {
+      "id": 2,
+      "name": "CSS3"
+    },
+    {
+      "id": 3,
+      "name": "JavaScript Fundamentals"
+    },
+    {
+      "id": 4,
+      "name": "Responsive Web Design"
+    },
+    {
+      "id": 5,
+      "name": "Front-end Frameworks (e.g., React)"
+    },
+    {
+      "id": 6,
+      "name": "Web Accessibility"
+    }
+  ],
+  "postLikes": []
+}
